@@ -1038,7 +1038,7 @@ Spica.Event.run(function() {
     closeimg:'http://iamchiwa.github.io/blogging/lightbox/close.gif',
     effectimg:'http://iamchiwa.github.io/blogging/lightbox/zzoop.gif',
     effectpos:{x:-40,y:-20},
-    effectclass:'effectable',
+    effectclass:'',
     resizable:false,
     animation:false
   });
