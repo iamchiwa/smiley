@@ -1029,14 +1029,14 @@ Lightbox.prototype = {
 };
 Spica.Event.run(function() { 
   new Lightbox({
-    loadingimg:'resource/loading.gif',
-    expandimg:'resource/expand.gif',
-    shrinkimg:'resource/shrink.gif',
-    blankimg:'resource/blank.gif',
-    previmg:'resource/prev.gif',
-    nextimg:'resource/next.gif',
-    closeimg:'resource/close.gif',
-    effectimg:'resource/zzoop.gif',
+    loadingimg:'http://iamchiwa.github.io/blogging/lightbox/loading.gif',
+    expandimg:'http://iamchiwa.github.io/blogging/lightbox/expand.gif',
+    shrinkimg:'http://iamchiwa.github.io/blogging/lightbox/shrink.gif',
+    blankimg:'http://iamchiwa.github.io/blogging/lightbox/blank.gif',
+    previmg:'http://iamchiwa.github.io/blogging/lightbox/prev.gif',
+    nextimg:'http://iamchiwa.github.io/blogging/lightbox/next.gif',
+    closeimg:'http://iamchiwa.github.io/blogging/lightbox/close.gif',
+    effectimg:'http://iamchiwa.github.io/blogging/lightbox/zzoop.gif',
     effectpos:{x:-40,y:-20},
     effectclass:'effectable',
     resizable:true,
