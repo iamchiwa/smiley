@@ -1039,7 +1039,7 @@ Spica.Event.run(function() {
     effectimg:'http://iamchiwa.github.io/blogging/lightbox/zzoop.gif',
     effectpos:{x:-40,y:-20},
     effectclass:'effectable',
-    resizable:true,
-    animation:true
+    resizable:false,
+    animation:false
   });
 });
